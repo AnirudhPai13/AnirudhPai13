@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Student at NMAM Institute of Technology, Nitte<br>Currently the Technical Coordinator @ACCESS, NMAMIT<br>Skills: Java, C++<br>Good at Database, Communication Skills, Analytical and Mathematical Skills<br>Want to learn more on the topic of Cybersecurity, Artificial Intelligence, Mobile Phone Technology<br>Other Hobbies: Reading Novels, Listening to Music.<br>
+I’m currently a Student at NMAM Institute of Technology, Nitte<br>Currently the Technical Coordinator @ACCESS, NMAMIT<br>Skills: Java, C++<br>Good at Database, Website Design(frontend), Communication Skills, Analytical and Mathematical Skills<br>Want to learn more on the topic of Cybersecurity, Artificial Intelligence, Mobile Phone Technology<br>Other Hobbies: Reading Novels, Listening to Music.<br>
 
 
 ## 🌐 Socials:
